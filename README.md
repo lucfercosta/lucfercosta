@@ -66,13 +66,13 @@ Constantly improving skills in software architecture, clean code and modern deve
 ## GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=tokyonight"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucfercosta&theme=tokyonight"/>
   
   <br/>
 
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_USERNAME&theme=tokyonight"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucfercosta&theme=tokyonight"/>
 
-  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=tokyonight"/>
+  <img height="160em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lucfercosta&theme=tokyonight"/>
 </div>
 
 ---
@@ -93,15 +93,15 @@ Constantly improving skills in software architecture, clean code and modern deve
 ## Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lucfercosta/lucfercosta/output/github-contribution-grid-snake-dark.svg">
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lucfercosta/lucfercosta/output/github-contribution-grid-snake.svg">
 
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/lucfercosta/lucfercosta/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=lucfercosta&color=blue" alt="Profile views" />
 </p>
