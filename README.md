@@ -80,7 +80,7 @@ Constantly improving skills in software architecture, clean code and modern deve
 
 <div align="center"> 
 
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/lucfercosta/)" target="_blank">
+  <a href="https://www.linkedin.com/in/lucfercosta/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
