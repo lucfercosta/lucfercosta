@@ -1,13 +1,12 @@
-### Hello, world! 💻🌎
+  ###                          
+<h1>Hello, world! 💻🌎</h1>
+<h2>Lucas Fernandes | Software & Web Development Student</h2>
 
-<h1 align="center">Lucas Fernandes | Software & Web Development Student</h1>
-
-<p align="center">
-  Software and Web Development student focused on back-end development,<br>
-  web applications and database systems.
+<p>
+  Software and Web Development student focused on back-end development, web applications and database systems.
 </p>
 
-<p align="center">
+<p>
   Currently studying and building projects using C#, C++, Java, Python, ASP.NET Core and SQL technologies.
 </p>
 
