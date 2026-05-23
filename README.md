@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  Currently studying and building projects using C#, ASP.NET Core, Python, Java and SQL technologies.
+  Currently studying and building projects using C#, C++, Java, Python, ASP.NET Core and SQL technologies.
 </p>
 
 ---
